@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: cadetblue;
+}
+.header_text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+     margin-top: 5px;
+     margin-bottom: 0px;
+}
+.gif_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
